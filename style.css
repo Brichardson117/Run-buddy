@@ -71,7 +71,7 @@
   
 
   .hero {
-    background-image: url('./images/hero-bg.jpg');
+    background-image: url('../run-buddy/images/hero-bg.jpg');
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -248,4 +248,10 @@
 }
 .contact-info a {
   color: #fce138;
+}
+.hero-secondary {
+  margin: 20px;
+  background-color: black;
+  font-size: 20px;
+  color: red;
 }
